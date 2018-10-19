@@ -1,6 +1,5 @@
 export EDITOR=vi
 export JAVA_HOME=$(/usr/libexec/java_home)
-export BEARER_TOKEN='eyJhbGciOiJFUzI1NiJ9.eyJzdWIiOiIwdjdFYTZscFRObVlOSTRmckZaTVdRPT0iLCJqdGkiOiJkSzBMd0JseFNOV2dUNk1Ja0xLQ3JRPT0ifQ.r3-JW2mRtbjKl0eOYdMfeBDnuHc_Tgnw9eId4r_SCjXDfEpuqtyLLSQwBbCQ0QlE7r55NI3HO6s1uTPdyEFYow'
 
 source /usr/local/etc/bash_completion.d/git-completion.bash
 
